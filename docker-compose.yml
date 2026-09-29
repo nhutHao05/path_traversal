@@ -1,0 +1,9 @@
+services:
+  novus-bank:
+    build: .
+    container_name: novus_banking_app
+    ports:
+      - "8080:80"
+    volumes:
+      - ./src:/var/www/html
+    restart: unless-stopped

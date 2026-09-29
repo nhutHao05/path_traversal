@@ -1,0 +1,27 @@
+================================================================================
+                            NOVUS CAPITAL BANK
+                          E-STATEMENT OF ACCOUNT
+================================================================================
+Customer Name   : Alex Vance
+Account Number  : 4920-8812-7491-0021 (Checking Account)
+Statement Period: 01/01/2026 - 31/01/2026
+Currency        : USD
+
+SUMMARY:
+--------------------------------------------------------------------------------
+Opening Balance : $ 124,500.00
+Total Deposits  : $  45,200.00
+Total Withdrawals: $  18,340.50
+Closing Balance : $ 151,359.50
+--------------------------------------------------------------------------------
+
+TRANSACTIONS DETAILS:
+Date        Description                         Amount (USD)       Balance (USD)
+--------------------------------------------------------------------------------
+02/01/2026  Direct Deposit - CyberSec Corp      +  15,000.00          139,500.00
+08/01/2026  Wire Transfer - Investment Fund     -  12,000.00          127,500.00
+15/01/2026  Consulting Retainer Q1              +  30,200.00          157,700.00
+24/01/2026  Executive Health Insurance Premium  -   6,340.50          151,359.50
+--------------------------------------------------------------------------------
+Generated automatically by Novus Banking Core v4.12.
+================================================================================

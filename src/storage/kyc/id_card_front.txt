@@ -1,0 +1,12 @@
+================================================================================
+                    NOVUS BANK - KYC DOCUMENT VERIFICATION
+================================================================================
+Document Type   : National Passport / Identity Proof
+Document Number : P90281923
+Full Legal Name : Alexander Julian Vance
+Date of Birth   : 1988-06-14
+Nationality     : United States
+Verification    : VERIFIED by Compliance Officer #CO-891
+Hash Signature  : SHA256:4a8b79e2c1d9348b6f2081c7e902b4a123f890123ab4567cd89ef0123456789a
+Status          : ACTIVE - TIER 2 UNLIMITED
+================================================================================

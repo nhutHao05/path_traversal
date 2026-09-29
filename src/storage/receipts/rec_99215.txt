@@ -1,0 +1,12 @@
+================================================================================
+                       TRANSACTION RECEIPT #99215
+================================================================================
+Transaction ID  : TXN-2026-03-20-99215
+Timestamp       : 2026-03-20 16:48:02 UTC
+From Account    : Global Hedge Fund Partners
+To Account      : 4920-8812-7491-0021 (Alex Vance)
+Transaction Type: Inward SWIFT Transfer
+Amount Received : $ 50,000.00 USD
+SWIFT Reference : SWIFT-2026-FIN-771920
+Status          : CREDITED
+================================================================================

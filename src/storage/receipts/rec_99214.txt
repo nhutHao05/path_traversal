@@ -1,0 +1,12 @@
+================================================================================
+                       TRANSACTION RECEIPT #99214
+================================================================================
+Transaction ID  : TXN-2026-03-14-99214
+Timestamp       : 2026-03-14 10:24:19 UTC
+From Account    : 4920-8812-7491-0021 (Alex Vance)
+To Beneficiary  : Acme Security Solutions LLC
+Beneficiary IBAN: US64NOVUS000192837461
+Amount Transferred: $ 25,400.00 USD
+Transfer Fee    : $ 0.00 USD (Priority Private Banking)
+Status          : SUCCESS / CLEARED (Fedwire Reference #FW992182)
+================================================================================
